@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aquamarine;
+    width: 100%;
+    height: 90px;
+    position: relative;
+}
+.nav{
+    background-color: rgb(82, 223, 17);
+    width: 90%;
+    height: 70px;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+.logo{
+    background-color: blueviolet;
+    width: 10%;
+    height: 25px;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+.navlinks{
+    background-color: black;
+    width: 45%;
+    height: 35px;
+    position: absolute;
+    top: 30px;
+    right: 10%;
+}
